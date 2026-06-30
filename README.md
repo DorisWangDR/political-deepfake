@@ -4,6 +4,8 @@ An interactive Streamlit dashboard for exploring political deepfake and cheapfak
 
 **Live demo:** https://political-deepfake-demo.streamlit.app/
 
+<img width="1903" height="809" alt="image" src="https://github.com/user-attachments/assets/3cc85426-e0a5-41ee-a581-bbc6bb0ef0ac" />
+
 ## Overview
 
 Political Deepfake Atlas turns a manually coded incident database into an exploratory data visualization tool. The app is designed to help users move beyond individual examples and examine broader patterns in how political synthetic media circulates online.
